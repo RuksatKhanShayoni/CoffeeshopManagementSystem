@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F241E780-C9F9-4FBB-AE33-4C86F0AF0E2A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Restaurant_Management</RootNamespace>
+    <AssemblyName>Restaurant Management</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin_Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Dashboard.Designer.cs">
+      <DependentUpon>Admin_Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClassID.cs" />
+    <Compile Include="Cover.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cover.Designer.cs">
+      <DependentUpon>Cover.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee.Designer.cs">
+      <DependentUpon>Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="First.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="First.Designer.cs">
+      <DependentUpon>First.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSignUp.Designer.cs">
+      <DependentUpon>FormSignUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Invoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Invoice.Designer.cs">
+      <DependentUpon>Invoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Admin_Dashboard.resx">
+      <DependentUpon>Admin_Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cover.resx">
+      <DependentUpon>Cover.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee.resx">
+      <DependentUpon>Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="First.resx">
+      <DependentUpon>First.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSignUp.resx">
+      <DependentUpon>FormSignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Invoice.resx">
+      <DependentUpon>Invoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee-beans-with-props-making-coffee.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-626755782-170667a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RQIVB664M5A6PAGVWMLYU7ZWXY.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-173575185-170667a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-173575185-170667a1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\canva-simple-modern-vintage-coffee-time-cafe-or-restaurant-menu-K0lqdV2-qEo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee-beans-with-props-making-coffee1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1e7f5528452b561e9f4fe4c576f08f51.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13-must-reads-for-every-coffee-shop-business-min.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13-must-reads-for-every-coffee-shop-business-min1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\canva-simple-modern-vintage-coffee-time-cafe-or-restaurant-menu-K0lqdV2-qEo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand-lettering-name-coffee-with-sketch-coffee-shop-cafe_165578-1183.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1277092417-612x612.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee-type-vector-27122947.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c97c4e10184277.560e0baed9d05.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee-cup-with-steam-in-brush-strokes-3626ld.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee-cup-with-steam-in-brush-strokes-3626ld1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f91f22107093299.5f9f5a7cb09ad.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f91f22107093299.5f9f5a7cb09ad1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f91f22107093299.5f9f5a7cb09ad2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abstract-empty-white-gray-gradient-260nw-1654550845.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f91f22107093299.5f9f5a7cb09ad3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f91f22107093299.5f9f5a7cb09ad4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coffee-cup-with-steam-in-brush-strokes-3626ld2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Annotation 2021-12-12 2018571.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-173575185-170667a2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2021-12-18 023109.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj">
+      <Project>{39E3D71A-1B21-49E9-999F-B776EF4DF5D1}</Project>
+      <Name>DataAccessLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

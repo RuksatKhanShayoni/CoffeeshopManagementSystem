@@ -1,0 +1,142 @@
+E:\C#\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.exe.config
+E:\C#\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.exe
+E:\C#\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.pdb
+E:\C#\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.AssemblyReference.cache
+E:\C#\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Properties.Resources.resources
+E:\C#\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.GenerateResource.cache
+E:\C#\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.CoreCompileInputs.cache
+E:\C#\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.exe
+E:\C#\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.pdb
+E:\C#\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Invoice.resources
+E:\C#\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Menu.resources
+E:\C#\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Cover.resources
+E:\C#\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Reservation.resources
+E:\C#\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.First.resources
+E:\C#\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Login.resources
+E:\C#\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Dashboard.resources
+C:\Users\srabon\Downloads\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.exe.config
+C:\Users\srabon\Downloads\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.exe
+C:\Users\srabon\Downloads\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.pdb
+C:\Users\srabon\Downloads\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.AssemblyReference.cache
+C:\Users\srabon\Downloads\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Cover.resources
+C:\Users\srabon\Downloads\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Dashboard.resources
+C:\Users\srabon\Downloads\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.First.resources
+C:\Users\srabon\Downloads\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Invoice.resources
+C:\Users\srabon\Downloads\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Login.resources
+C:\Users\srabon\Downloads\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Menu.resources
+C:\Users\srabon\Downloads\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Properties.Resources.resources
+C:\Users\srabon\Downloads\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Reservation.resources
+C:\Users\srabon\Downloads\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.GenerateResource.cache
+C:\Users\srabon\Downloads\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.CoreCompileInputs.cache
+C:\Users\srabon\Downloads\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.exe
+C:\Users\srabon\Downloads\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.pdb
+C:\Users\srabon\Downloads\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\DataAccessLayer.dll
+C:\Users\srabon\Downloads\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\DataAccessLayer.pdb
+C:\Users\srabon\Downloads\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.FormLogIn.resources
+C:\Users\srabon\Downloads\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.FormSignUp.resources
+C:\Users\srabon\Downloads\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.CopyComplete
+C:\Users\hp\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.exe.config
+C:\Users\hp\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.exe
+C:\Users\hp\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.pdb
+C:\Users\hp\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\DataAccessLayer.dll
+C:\Users\hp\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\DataAccessLayer.pdb
+C:\Users\hp\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Cover.resources
+C:\Users\hp\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Dashboard.resources
+C:\Users\hp\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.First.resources
+C:\Users\hp\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.FormLogIn.resources
+C:\Users\hp\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.FormSignUp.resources
+C:\Users\hp\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Invoice.resources
+C:\Users\hp\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Login.resources
+C:\Users\hp\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Menu.resources
+C:\Users\hp\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Properties.Resources.resources
+C:\Users\hp\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Reservation.resources
+C:\Users\hp\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.CopyComplete
+C:\Users\hp\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.exe
+C:\Users\hp\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.pdb
+C:\Users\hp\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Employee.resources
+C:\Users\srabon\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.exe.config
+C:\Users\srabon\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.exe
+C:\Users\srabon\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.pdb
+C:\Users\srabon\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\DataAccessLayer.dll
+C:\Users\srabon\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\DataAccessLayer.pdb
+C:\Users\srabon\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.AssemblyReference.cache
+C:\Users\srabon\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Dashboard.resources
+C:\Users\srabon\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Cover.resources
+C:\Users\srabon\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Employee.resources
+C:\Users\srabon\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.First.resources
+C:\Users\srabon\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.FormLogIn.resources
+C:\Users\srabon\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.FormSignUp.resources
+C:\Users\srabon\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Invoice.resources
+C:\Users\srabon\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Login.resources
+C:\Users\srabon\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Menu.resources
+C:\Users\srabon\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Properties.Resources.resources
+C:\Users\srabon\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Reservation.resources
+C:\Users\srabon\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.GenerateResource.cache
+C:\Users\srabon\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.CoreCompileInputs.cache
+C:\Users\srabon\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.CopyComplete
+C:\Users\srabon\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.exe
+C:\Users\srabon\Downloads\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.pdb
+O:\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.exe.config
+O:\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.exe
+O:\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.pdb
+O:\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\DataAccessLayer.dll
+O:\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\DataAccessLayer.pdb
+O:\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.AssemblyReference.cache
+O:\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Dashboard.resources
+O:\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Cover.resources
+O:\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Employee.resources
+O:\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.First.resources
+O:\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.FormSignUp.resources
+O:\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Invoice.resources
+O:\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Login.resources
+O:\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Menu.resources
+O:\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Properties.Resources.resources
+O:\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Reservation.resources
+O:\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.GenerateResource.cache
+O:\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.CoreCompileInputs.cache
+O:\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.CopyComplete
+O:\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.exe
+O:\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.pdb
+F:\Restaurant Management_Oli_Updated\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.exe.config
+F:\Restaurant Management_Oli_Updated\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.exe
+F:\Restaurant Management_Oli_Updated\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.pdb
+F:\Restaurant Management_Oli_Updated\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\DataAccessLayer.dll
+F:\Restaurant Management_Oli_Updated\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\DataAccessLayer.pdb
+F:\Restaurant Management_Oli_Updated\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.AssemblyReference.cache
+F:\Restaurant Management_Oli_Updated\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Dashboard.resources
+F:\Restaurant Management_Oli_Updated\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Cover.resources
+F:\Restaurant Management_Oli_Updated\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Employee.resources
+F:\Restaurant Management_Oli_Updated\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.First.resources
+F:\Restaurant Management_Oli_Updated\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.FormSignUp.resources
+F:\Restaurant Management_Oli_Updated\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Invoice.resources
+F:\Restaurant Management_Oli_Updated\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Login.resources
+F:\Restaurant Management_Oli_Updated\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Menu.resources
+F:\Restaurant Management_Oli_Updated\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Properties.Resources.resources
+F:\Restaurant Management_Oli_Updated\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.GenerateResource.cache
+F:\Restaurant Management_Oli_Updated\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.CoreCompileInputs.cache
+F:\Restaurant Management_Oli_Updated\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.CopyComplete
+F:\Restaurant Management_Oli_Updated\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.exe
+F:\Restaurant Management_Oli_Updated\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.pdb
+F:\Coffee Shop Management_\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.exe.config
+F:\Coffee Shop Management_\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.exe
+F:\Coffee Shop Management_\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\Restaurant Management.pdb
+F:\Coffee Shop Management_\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\DataAccessLayer.dll
+F:\Coffee Shop Management_\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\bin\Debug\DataAccessLayer.pdb
+F:\Coffee Shop Management_\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.AssemblyReference.cache
+F:\Coffee Shop Management_\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Dashboard.resources
+F:\Coffee Shop Management_\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Cover.resources
+F:\Coffee Shop Management_\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Employee.resources
+F:\Coffee Shop Management_\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.First.resources
+F:\Coffee Shop Management_\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.FormSignUp.resources
+F:\Coffee Shop Management_\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Invoice.resources
+F:\Coffee Shop Management_\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Login.resources
+F:\Coffee Shop Management_\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Menu.resources
+F:\Coffee Shop Management_\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant_Management.Properties.Resources.resources
+F:\Coffee Shop Management_\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.GenerateResource.cache
+F:\Coffee Shop Management_\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.CoreCompileInputs.cache
+F:\Coffee Shop Management_\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.csproj.CopyComplete
+F:\Coffee Shop Management_\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.exe
+F:\Coffee Shop Management_\Restaurant Management_Oli_Updated\Restaurant Management_Oli\Restaurant Management (1)\Restaurant Management\Restaurant Management\obj\Debug\Restaurant Management.pdb
